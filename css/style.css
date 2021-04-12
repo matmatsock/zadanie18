@@ -1,0 +1,14 @@
+body{
+    background-color: #faebd6;
+}
+h1{
+    color: #ff0000;
+}
+
+article > p{
+    color: #a42423;
+}
+
+span{
+    color: #00008f;
+}
